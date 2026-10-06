@@ -1,0 +1,76 @@
+lead_id,name,company,industry,company_size,job_title,location,budget,timeline,need_level,product_interest,website_visits,email_engagement,demo_requested,pricing_interest,previous_contact,pain_point,notes
+L101,Rahul Menon,CloudAxis,SaaS,201-500,VP Operations,Bengaluru,60000,0-3 months,High,Customer Support Automation,28,High,Yes,Yes,No,Support team is overloaded,Needs faster response times and lower support costs
+L102,Sneha Kapoor,MediCore Solutions,Healthcare,501-1000,IT Manager,Mumbai,25000,3-6 months,High,AI Support Platform,16,High,Yes,Yes,Yes,High volume of repetitive queries,Comparing three vendors
+L103,Daniel Thomas,BrightCart,E-commerce,51-200,Founder,Kochi,12000,0-3 months,High,Customer Support Automation,34,High,Yes,Yes,No,Slow customer response during peak sales,Wants implementation before festive season
+L104,Kavya Iyer,FinServe Technologies,FinTech,1001-5000,Procurement Executive,Chennai,50000,6-12 months,Medium,Support Automation,8,Low,No,Yes,No,Existing support tool is expensive,Budget needs internal approval
+L105,Arjun Verma,LogiFleet,Logistics,201-500,Head of Customer Experience,Hyderabad,35000,0-3 months,High,AI Customer Support,22,High,Yes,Yes,Yes,Customers wait too long for updates,Interested in API integration
+L106,Meera Joseph,EduSpark,Education,51-200,Operations Manager,Kochi,8000,3-6 months,Medium,Support Chatbot,11,Medium,No,No,No,Small support team,Needs implementation information
+L107,Aditya Rao,NovaSoft,Software,11-50,Software Engineer,Pune,15000,3-6 months,High,Customer Support Automation,19,Medium,Yes,Yes,No,Engineering team handles support tickets,Needs technical documentation
+L108,Pooja Nair,GreenBasket,Retail,201-500,CEO,Bengaluru,55000,0-3 months,High,AI Support Platform,41,High,Yes,Yes,No,Large increase in customer queries,Decision can be made this month
+L109,Vivek Shah,DataBridge,IT Services,501-1000,Sales Manager,Ahmedabad,18000,6-12 months,Medium,Support Automation,7,Low,No,No,Yes,Manual ticket routing,Exploring options for next financial year
+L110,Anjali Das,TravelNest,Travel,51-200,Customer Experience Lead,Kolkata,10000,0-3 months,High,AI Support Platform,24,High,Yes,Yes,Yes,Peak-season support pressure,Wants a quick pilot
+L111,Rakesh Kumar,BuildRight,Construction,1001-5000,IT Director,Delhi,45000,3-6 months,Medium,Customer Support Automation,13,Medium,Yes,Yes,Yes,Disconnected support channels,Security review required
+L112,Nisha Patel,QuickPay,FinTech,201-500,Product Manager,Mumbai,22000,3-6 months,High,AI Support Platform,18,High,No,Yes,No,Repetitive customer questions,Interested after seeing a demo
+L113,Sanjay Menon,AutoServe,Automotive,51-200,Founder,Chennai,7000,6-12 months,Low,Support Chatbot,5,Low,No,No,No,Occasional support backlog,Still researching solutions
+L114,Farah Khan,CarePlus,Healthcare,201-500,Director of Operations,Bengaluru,40000,0-3 months,High,AI Customer Support,31,High,Yes,Yes,Yes,Routine requests consume agent time,Needs compliance information
+L115,Manish Gupta,MarketLoop,Marketing,11-50,Account Manager,Pune,5000,3-6 months,Medium,Support Automation,9,Medium,No,No,No,Clients ask status questions,Small team with limited budget
+L116,Aishwarya Raj,ShipKart,Logistics,501-1000,VP Customer Success,Hyderabad,65000,0-3 months,High,AI Support Platform,38,High,Yes,Yes,Yes,Ticket volume doubled recently,Wants enterprise onboarding
+L117,Harish Babu,TechOrbit,Software,201-500,Team Lead,Coimbatore,20000,3-6 months,Medium,Customer Support Automation,15,Medium,No,Yes,No,Support requests interrupt development,Needs helpdesk integration
+L118,Divya Krishnan,HomeEase,E-commerce,51-200,Marketing Executive,Kochi,9000,6-12 months,Low,Support Chatbot,4,Low,No,No,No,Repetitive product questions,No urgent purchase timeline
+L119,Mohammed Ali,SecureNet,IT Services,1001-5000,Chief Technology Officer,Bengaluru,80000,0-3 months,High,AI Support Platform,45,High,Yes,Yes,Yes,Large support operation,Requires SSO and security review
+L120,Riya Sen,FoodDash,Food & Beverage,201-500,Operations Lead,Kolkata,14000,3-6 months,High,Customer Support Automation,17,High,Yes,No,No,Complaint handling is manual,Interested in workflow automation
+L121,Naveen Pillai,InsureWise,Insurance,501-1000,Business Analyst,Mumbai,30000,6-12 months,Medium,AI Customer Support,10,Medium,No,Yes,Yes,Long customer response times,Waiting for leadership approval
+L122,Lakshmi S,SkillForge,Education,11-50,Founder,Thiruvananthapuram,11000,0-3 months,High,Support Chatbot,26,High,Yes,Yes,No,Founder handles many customer queries,Looking for an affordable solution
+L123,Amit Joshi,RetailHub,Retail,201-500,Store Operations Manager,Delhi,16000,3-6 months,Medium,Support Automation,12,Medium,No,Yes,Yes,Support requests across multiple channels,Needs reporting and analytics
+L124,Neha Thomas,HealthFirst,Healthcare,51-200,HR Manager,Kochi,6000,6-12 months,Low,Customer Support Automation,3,Low,No,No,No,Occasional customer queries,No dedicated budget yet
+L125,Siddharth Rao,FinCloud,FinTech,1001-5000,Head of Product,Pune,70000,0-3 months,High,AI Support Platform,29,High,Yes,Yes,Yes,High support volume after expansion,Wants a proof of concept
+L126,Isha Malhotra,UrbanStay,Hospitality,51-200,General Manager,Goa,13000,0-3 months,High,Customer Support Automation,21,High,Yes,Yes,No,Guests expect faster responses,Needs multilingual support
+L127,Rohan Das,CodeCraft Labs,Software,11-50,Developer,Bengaluru,9000,6-12 months,Medium,AI Support Platform,6,Low,No,No,No,Support handled by developers,Early research stage
+L128,Priyanka Singh,MoveFast,Logistics,201-500,Director,Delhi,50000,3-6 months,High,Customer Support Automation,23,High,Yes,Yes,Yes,Customers request shipment updates,Needs CRM integration
+L129,George Mathew,AgroLink,Agriculture,51-200,Operations Manager,Thrissur,7500,3-6 months,Medium,Support Chatbot,14,Medium,No,No,No,Support team is small,Needs basic automation
+L130,Swati Agarwal,ShopSphere,E-commerce,501-1000,VP Customer Success,Mumbai,45000,0-3 months,High,AI Support Platform,36,High,Yes,Yes,Yes,High ticket volume during campaigns,Interested in immediate deployment
+L131,Vishal Kumar,BizWorks,Business Services,11-50,Sales Executive,Chennai,4000,6-12 months,Low,Support Automation,2,Low,No,No,No,Occasional customer questions,No formal project planned
+L132,Maria Fernandes,CareConnect,Healthcare,201-500,COO,Mumbai,60000,0-3 months,High,AI Customer Support,33,High,Yes,Yes,Yes,Support demand is growing,Needs management-level proposal
+L133,Ajay Nair,LearnPro,Education,201-500,Program Director,Kochi,18000,3-6 months,Medium,Customer Support Automation,16,Medium,No,Yes,No,Repeated administrative questions,Wants to automate FAQs first
+L134,Tanvi Mehta,StyleKart,Retail,501-1000,Head of Digital,Bengaluru,32000,0-3 months,High,AI Support Platform,27,High,Yes,Yes,Yes,Queries increased after online expansion,Needs e-commerce integration
+L135,Rahul Das,MediaPulse,Media,51-200,Content Manager,Kolkata,10000,6-12 months,Medium,Support Chatbot,8,Low,No,No,Yes,Audience inquiries handled manually,No fixed deadline
+L136,Sonal Kapoor,PayBridge,FinTech,201-500,CEO,Delhi,55000,0-3 months,High,Customer Support Automation,39,High,Yes,Yes,No,Support costs are increasing,Ready to evaluate vendors
+L137,Joseph Antony,FleetTrack,Logistics,11-50,Operations Lead,Kochi,12500,3-6 months,High,AI Support Platform,20,Medium,Yes,Yes,No,Many tracking requests,Needs simple deployment
+L138,Reema Roy,CloudDesk,SaaS,501-1000,Customer Success Director,Pune,42000,3-6 months,High,AI Support Platform,25,High,Yes,Yes,Yes,Slow support affects retention,Considering multiple platforms
+L139,Kiran Varma,LocalMart,Retail,11-50,Owner,Thiruvananthapuram,6500,6-12 months,Low,Support Chatbot,5,Low,No,No,No,Limited support workload,Budget is uncertain
+L140,Deepa Menon,InsightIQ,Software,201-500,Chief Operating Officer,Bengaluru,75000,0-3 months,High,AI Support Platform,42,High,Yes,Yes,Yes,Rapid growth increases support demand,Executive sponsor is evaluating solutions
+L141,Aarav Nambiar,DataPulse,SaaS,201-500,VP Customer Success,Bengaluru,48000,0-3 months,High,AI Support Platform,32,High,Yes,Yes,Yes,Support tickets are growing with new customers,Needs faster resolution and customer retention support
+L142,Shreya Menon,WellCare,Healthcare,51-200,Operations Director,Kochi,28000,3-6 months,High,Customer Support Automation,18,High,Yes,Yes,No,Patients frequently need status updates,Interested in workflow automation
+L143,Karthik Rao,ShopEase,E-commerce,501-1000,Head of Support,Hyderabad,52000,0-3 months,High,AI Customer Support,37,High,Yes,Yes,Yes,Campaigns create large support spikes,Needs rapid deployment before next campaign
+L144,Nandini Shah,BlueLedger,FinTech,201-500,Product Manager,Mumbai,24000,3-6 months,Medium,Support Automation,14,Medium,No,Yes,No,Customers ask repeated transaction questions,Needs analytics and reporting
+L145,Vivek Menon,RouteWorks,Logistics,51-200,Founder,Chennai,9000,6-12 months,Medium,Support Chatbot,9,Low,No,No,No,Small operations team handles support,Researching affordable options
+L146,Anu George,LearnSphere,Education,501-1000,Director of Operations,Bengaluru,36000,0-3 months,High,AI Support Platform,27,High,Yes,Yes,Yes,Student support volume has increased,Wants a pilot before full rollout
+L147,Ritesh Jain,CodeMatrix,Software,201-500,Engineering Manager,Pune,30000,3-6 months,High,Customer Support Automation,21,Medium,Yes,Yes,No,Engineers spend time answering support tickets,Needs integration with existing tools
+L148,Fathima Ali,StaySmart,Hospitality,51-200,General Manager,Kochi,11500,0-3 months,High,AI Customer Support,19,High,Yes,Yes,No,Guests expect instant responses,Needs multilingual customer support
+L149,Suresh Babu,MedLink,Healthcare,1001-5000,CIO,Hyderabad,75000,0-3 months,High,AI Support Platform,30,High,Yes,Yes,Yes,Large patient-support operation,Security and compliance review required
+L150,Rhea Kapoor,MarketHive,Marketing,11-50,Founder,Delhi,6500,6-12 months,Low,Support Chatbot,6,Low,No,No,No,Clients ask recurring campaign questions,Interested but no urgent project
+L151,Nikhil Thomas,PayFlow,FinTech,501-1000,VP Product,Mumbai,45000,3-6 months,High,AI Customer Support,26,High,Yes,Yes,Yes,Support demand increased after product launch,Needs API and CRM integration
+L152,Swetha Krishnan,GreenCart,Retail,201-500,Customer Experience Manager,Chennai,17000,3-6 months,Medium,Customer Support Automation,13,Medium,No,Yes,No,Order-related queries are mostly manual,Needs basic automation first
+L153,Ravi Kumar,FleetPro,Logistics,1001-5000,Director of Operations,Delhi,58000,0-3 months,High,AI Support Platform,35,High,Yes,Yes,Yes,Shipment tracking requests are increasing,Executive team wants a quick implementation
+L154,Irene Joseph,BrightLearn,Education,51-200,Program Manager,Kochi,10000,6-12 months,Medium,Support Chatbot,7,Low,No,No,No,Administrative questions consume staff time,Considering automation for FAQs
+L155,Varun Mehta,CloudWorks,IT Services,201-500,CEO,Bengaluru,62000,0-3 months,High,AI Customer Support,40,High,Yes,Yes,No,Customer support costs are rising,Ready for vendor evaluation
+L156,Pallavi Rao,StyleHouse,E-commerce,51-200,Operations Manager,Pune,13500,3-6 months,Medium,Support Automation,15,Medium,Yes,No,No,Returns generate repetitive queries,Needs workflow automation
+L157,Gokul Nair,FinServe,FinTech,11-50,Founder,Thiruvananthapuram,8000,6-12 months,Low,Support Chatbot,4,Low,No,No,No,Small customer base,Early research stage
+L158,Ayesha Khan,CarePoint,Healthcare,201-500,Head of Customer Experience,Mumbai,39000,0-3 months,High,AI Support Platform,29,High,Yes,Yes,Yes,Patients wait too long for routine responses,Needs approval from compliance team
+L159,Sanjay Rao,TechNova Labs,Software,501-1000,CTO,Bengaluru,70000,3-6 months,High,Customer Support Automation,24,High,Yes,Yes,Yes,Technical teams handle customer escalations,Requires secure API access
+L160,Maya Thomas,TravelHub,Travel,201-500,Customer Experience Lead,Kochi,16000,0-3 months,High,AI Customer Support,23,High,Yes,Yes,No,Booking and cancellation questions are repetitive,Needs fast rollout before holiday season
+L161,Abhishek Singh,RetailFlow,Retail,1001-5000,VP Operations,Delhi,55000,3-6 months,High,AI Support Platform,20,Medium,Yes,Yes,Yes,Multiple support channels lack consistency,Needs centralized support automation
+L162,Deepa Nair,SkillBridge,Education,11-50,Founder,Kochi,7000,6-12 months,Low,Support Chatbot,3,Low,No,No,No,Founder handles most support personally,Budget is still being evaluated
+L163,Yash Patel,QuickShip,Logistics,201-500,Product Manager,Ahmedabad,26000,3-6 months,Medium,Customer Support Automation,18,Medium,Yes,Yes,No,Customers request delivery updates,Needs integration with shipment tracking
+L164,Reshma Das,CloudCare,SaaS,501-1000,Customer Success Director,Kolkata,50000,0-3 months,High,AI Support Platform,33,High,Yes,Yes,Yes,Churn risk is linked to slow support,Evaluating automation vendors
+L165,Manoj Varma,AutoAssist,Automotive,51-200,Service Manager,Chennai,14500,3-6 months,Medium,Support Automation,12,Medium,No,Yes,No,Service-status calls are frequent,Needs simple customer communication automation
+L166,Zoya Khan,SecurePay,FinTech,1001-5000,Chief Operating Officer,Mumbai,85000,0-3 months,High,AI Support Platform,44,High,Yes,Yes,Yes,High transaction-support volume,Requires enterprise security assessment
+L167,Sandeep Menon,HomeCart,E-commerce,201-500,Head of Digital,Bengaluru,30000,3-6 months,High,Customer Support Automation,22,High,Yes,Yes,No,Online orders create repetitive support requests,Wants integration with commerce platform
+L168,Anjali Krishnan,EduConnect,Education,201-500,IT Manager,Thiruvananthapuram,19000,3-6 months,Medium,AI Support Platform,10,Medium,No,Yes,Yes,Support tools are fragmented,Needs internal technical review
+L169,Rajiv Shah,BizCloud,IT Services,51-200,Managing Director,Pune,33000,0-3 months,High,AI Customer Support,28,High,Yes,Yes,No,Support workload is limiting team productivity,Interested in a short proof of concept
+L170,Harini Babu,WellnessPlus,Healthcare,11-50,Office Manager,Thrissur,5500,6-12 months,Low,Support Chatbot,5,Low,No,No,No,Small number of recurring inquiries,No approved budget yet
+L171,Akhil Joseph,LogiConnect,Logistics,501-1000,Head of Customer Success,Hyderabad,47000,0-3 months,High,AI Support Platform,31,High,Yes,Yes,Yes,Customer updates are mostly manual,Needs CRM and tracking integration
+L172,Sneha Rao,FoodBasket,Food & Beverage,51-200,Operations Manager,Bengaluru,10500,3-6 months,Medium,Customer Support Automation,16,Medium,No,No,No,Delivery complaints require manual handling,Interested in automating common questions
+L173,Imran Ali,DataSecure,Software,201-500,Director of Engineering,Pune,41000,3-6 months,High,AI Support Platform,17,High,Yes,Yes,Yes,Engineering receives too many customer escalations,Needs secure deployment options
+L174,Keerthi Nair,UrbanRetail,Retail,501-1000,Head of Customer Experience,Chennai,38000,0-3 months,High,AI Customer Support,30,High,Yes,Yes,Yes,Customer inquiries spike during promotions,Needs omnichannel support
+L175,Rohan Menon,ServiceDesk Pro,SaaS,1001-5000,CEO,Bengaluru,90000,0-3 months,High,AI Support Platform,47,High,Yes,Yes,Yes,Large support operation with growing ticket volume,Executive sponsor wants implementation plan

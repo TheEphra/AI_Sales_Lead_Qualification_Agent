@@ -1,0 +1,6 @@
+pandas
+streamlit
+python-dotenv
+huggingface_hub
+plotly
+pytest
